@@ -14,12 +14,12 @@ body {
 .card {
     width: 800px;
     background-color: white;
-    border: 5px solid red;
+    border: 2px solid black;
     margin: 0 auto;
 }
 
 img {
-    height: auto;
+height: auto;
     width: 400px;
 }
 
@@ -27,6 +27,27 @@ img {
  text-align: center;
  margin-top: 0px;
  padding: 20px 0;
- border-bottom: 5px solid red;
+ border-bottom: 2px solid black;
  background-color: peachpuff;
+}
+
+.description {
+    margin: 0px 8px;
+}
+
+.description-time {
+    margin: 0px 8px;
+}
+
+.ingredients {
+    margin: 0px 8px;
+}
+
+.steps {
+    margin: 0px 8px;
+}
+
+.home-button {
+    display: block;
+    margin: 0 auto;
 }
