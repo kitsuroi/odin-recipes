@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background-color: white;
+    background-color: #FFFFFF;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -19,50 +19,51 @@ body {
     height: 300px;
     width: 300px;
     margin-top: 16px;
-    border: 4px solid darkblue;
+    border: 4px solid #283618;
     border-radius: 100%;
     margin-bottom: -142px;
 }
 
 .card {
     width: 800px;
-    background-color: white;
-    border: 2px solid darkblue;
+    background-color: #FFFFFF;
+    border: 2px solid #283618;
     border-radius: 20px;
     margin: 0 auto;
 }
 
 .title{
-    background-color: darkblue;
-    color: white;
+    background-color: #283618;
+    color: #FEFAE0;
     text-align: center;
     margin: 0px;
     padding-top: 150px;
     padding-bottom: 20px;
-    border-bottom: 2px solid darkblue;
+    border-bottom: 2px solid #283618;
     border-top-left-radius: 16px;
     border-top-right-radius: 16px;
 }
 
 .description-time {
-    background-color: blue;
-    color: white;
+    background-color: #606c38;
+    color: #FEFAE0;
     margin: 0px;
     padding: 6px;
     font-weight: 900;
     text-align: center;
-    border-bottom: 2px solid darkblue;
+    border-bottom: 2px solid #283618;
 }
 
 .description-text {
-    margin-left: 8px;
-    
+    padding-left: 8px;
+    border-bottom: 2px solid #283618;
 }
 
 
 .ingredients {
     width: 370px;
-    margin-left: 8px;
+    padding-left: 8px;
+    border-bottom: 2px solid #283618;
 }
 
 .steps {
