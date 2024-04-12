@@ -19,7 +19,7 @@ body {
     height: 300px;
     width: 300px;
     margin-top: 16px;
-    border: 4px solid #283618;
+    border: 4px solid #386641;
     border-radius: 100%;
     margin-bottom: -142px;
 }
@@ -27,55 +27,54 @@ body {
 .card {
     width: 800px;
     background-color: #FFFFFF;
-    border: 2px solid #283618;
+    border: 2px solid #386641;
     border-radius: 20px;
     margin: 0 auto;
 }
 
 .title{
-    background-color: #283618;
+    background-color: #386641;
     color: #FFFFFF;
     text-align: center;
     margin: 0px;
     padding-top: 150px;
     padding-bottom: 20px;
-    border-bottom: 2px solid #283618;
+    border-bottom: 2px solid #386641;
     border-top-left-radius: 16px;
     border-top-right-radius: 16px;
 }
 
 .description-time {
-    background-color: #606c38;
+    background-color: #6A994E;
     color: #FFFFFF;
     margin: 0px;
     padding: 6px;
     font-weight: 900;
     text-align: center;
-    border-bottom: 2px solid #283618;
 }
 
 .description-text {
     padding-left: 8px;
-    border-bottom: 2px solid #283618;
+    border-bottom: 2px solid #386641;
 }
 
 
 .ingredients {
     padding-left: 8px;
-    border-bottom: 2px solid #283618;
+    border-bottom: 2px solid #386641;
 }
 
 .steps {
     padding-left: 8px;
     padding-right: 8px;
-    border-bottom: 2px solid #283618;
+    border-bottom: 2px solid #386641;
 }
 
 .home-button {
     display: block;
-    background-color: #BC6C25;
+    background-color: #BC4749;
     font-weight: bold;
-    border: 2px solid #283618;
+    border: 2px solid #386641;
     border-bottom-left-radius: 16px;
     border-bottom-right-radius: 16px;
     padding: 8px 378px;
