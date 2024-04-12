@@ -55,6 +55,7 @@ body {
 
 .description-text {
     padding-left: 8px;
+    padding-bottom: 8px;
     border-bottom: 2px solid #386641;
 }
 
