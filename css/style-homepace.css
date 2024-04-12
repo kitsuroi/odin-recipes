@@ -4,10 +4,13 @@ html {
 
 *, *::before, *::after {
     box-sizing: inherit;
+}
 
 body {
-    background-color: #FFFFFF;
+    background-color: #F2E8CF;
     font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+    margin: 0px;
 }
 
 h1 {
@@ -20,15 +23,25 @@ h1 {
     margin: 0px;
 }
 
+.layout{
+    width: 848px;
+    margin: 0px auto;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.container {
+    display: inline-block;
 }
 
 .display-card{
     background-color: #386641;
     width: 400px;
     border-radius: 5%;
-    margin-bottom: 8px;
+    margin: 8px;
     border: 6px solid #386641;
-    display: inline-block;   
 }
 
 .display-card h2 {
