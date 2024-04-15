@@ -13,7 +13,7 @@ body {
     margin: 0px;
 }
 
-h1 {
+h1.title {
     text-align: center;
     background-color: #386641;
     color: #FFFFFF;
@@ -23,17 +23,20 @@ h1 {
     margin: 0px;
 }
 
-.layout{
+li.container {
+    display: inline-block;
+}
+
+ul.layout{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
     width: 848px;
     margin: 0px auto;
 }
 
 a:link {
     text-decoration: none;
-}
-
-.container {
-    display: inline-block;
 }
 
 .display-card{
